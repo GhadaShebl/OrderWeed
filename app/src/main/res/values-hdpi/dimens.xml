@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="logo_txt_size">32sp</dimen>
+    <dimen name="logo_txt_margin">170dp</dimen>
+
+    <!-- Login/Signup tabbed layout -->
+    <dimen name="tab_background_height">140dp</dimen>
+    <dimen name="edit_txt_height">33dp</dimen>
+    <dimen name="edit_txt_font_size">11sp</dimen>
+    <dimen name="btn_height">43dp</dimen>
+
+</resources>

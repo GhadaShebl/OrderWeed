@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_indica"
+        android:icon="@drawable/indica"
+        android:title="@string/indica" />
+
+    <item
+        android:id="@+id/nav_sativa"
+        android:icon="@drawable/sativa"
+        android:title="@string/sativa" />
+
+    <item
+        android:id="@+id/nav_hybrid"
+        android:icon="@drawable/hybrid"
+        android:title="@string/hybrid" />
+
+    <item
+        android:id="@+id/nav_oils"
+        android:icon="@drawable/oils"
+        android:title="@string/oils" />
+
+    <item
+        android:id="@+id/nav_others"
+        android:icon="@drawable/others"
+        android:title="@string/other" />
+
+</menu>

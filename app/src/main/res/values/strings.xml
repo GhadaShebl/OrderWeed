@@ -1,0 +1,93 @@
+<resources>
+
+    <!-- Splash screen, Login and Signpu -->
+    <string name="app_name">OrderWeed</string>
+    <string name="order">Order</string>
+    <string name="weed">Weed</string>
+    <string name="tab_text_1">Signup</string>
+    <string name="tab_text_2">Login</string>
+    <string name="mail_hint">Email</string>
+    <string name="pass_hint">Password (can\'t be less than 4 characters) </string>
+    <string name="confirm_pass_hint">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="name_hint">Name</string>
+    <string name="login_data_error">Wrong Email or Password</string>
+
+
+    <!-- Reset password -->
+    <string name="skip">Skip Registration</string>
+    <string name="forgot_password_screen_header">Forgot Password</string>
+    <string name="reset_password_screen_header">Reset Password</string>
+    <string name="reset_password_top_guide">Please Enter your Email to Proceed resetting your password</string>
+    <string name="next">Next</string>
+    <string name="email_error">Email doesn\'t Exist</string>
+    <string name="email_exists_error">Email Already in Use</string>
+    <string name="password_error">Passwords don\'t Match</string>
+    <string name="enter_pass">Please Enter your New Password and Confirm it</string>
+
+
+    <!-- Continue without signup dialog -->
+    <string name="continue_without_signup_dialog_header">JUST CHECKING...</string>
+    <string name="continue_without_signup_dialog_body_header">Continue Without Signup?</string>
+    <string name="continue_without_signup_dialog_body">You will not be able to bookmark or rate any product unless you are logged in</string>
+    <string name="continue_without_signup_dialog_cancel">Cancel</string>
+    <string name="continue_without_signup_dialog_continue">Continue</string>
+
+    <!-- Cannot bookmark dialog -->
+    <string name="cannot_bookmark_dialog_header">Sorry</string>
+    <string name="cannot_bookmark_dialog_body_header">Bookmark Product?</string>
+    <string name="cannot_bookmark_dialog_body">You cannot perform this action unless you are a logged in user</string>
+    <string name="cannot_bookmark_dialog_cancel">Cancel</string>
+    <string name="cannot_bookmark_dialog_login">Login</string>
+
+    <!-- Cannot rate dialog -->
+    <string name="cannot_rate_dialog_body_header">Rate Product?</string>
+
+    <!-- Password Changed successfully dialog -->
+    <string name="success">SUCCESS...</string>
+    <string name="password_changed">Password Updated Successfully</string>
+
+
+    <!-- Details Screen -->
+    <string name="details_screen_header">Details</string>
+    <string name="description">Description</string>
+    <string name="reviews">Reviews</string>
+    <string name="type">Type</string>
+    <string name="thc">THC Level</string>
+    <string name="cbd">CBD Level</string>
+    <string name="website_link">Order Weed</string>
+    <string name="review_btn">Give Review</string>
+
+    <!-- Categories -->
+    <string name="indica">Indica</string>
+    <string name="sativa">Sativa</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="oils">Oils</string>
+    <string name="other">Others</string>
+
+    <!-- Write Review Screen -->
+    <string name="rate_product_screen_header">Rate Product</string>
+    <string name="my_rate_header">My Rate</string>
+    <string name="my_review_header">My Review</string>
+    <string name="submit_btn">Submit Review</string>
+
+
+    <!-- Home Screen -->
+    <string name="home_screen_header">Discover</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_screen_header">Favorites</string>
+
+
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="view_more">View More</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_favorites">Favorites</string>
+
+
+</resources>
