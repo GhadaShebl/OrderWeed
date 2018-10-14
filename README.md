@@ -1,5 +1,5 @@
 # OrderWeed
-An Android application that lists legal weed products from different countries.
+An Android application that lists legal weed products from different companies in Canada.
 The uploaded version is just the strcuture and design with static date for showcase.
 
 NOTE: Our APIs are not yet implemented so you'll need to skip registeration in order to go to the home page
